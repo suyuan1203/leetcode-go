@@ -3,7 +3,7 @@ leetcode answer using go
 
 [36-有效数独](https://github.com/suyuan1203/leetcode-go/blob/main/36-%E6%9C%89%E6%95%88%E6%95%B0%E7%8B%AC.md)
 
-[47-全排列II]https://github.com/suyuan1203/leetcode-go/blob/main/47-%E5%85%A8%E6%8E%92%E5%88%97II.md
+[47-全排列II](https://github.com/suyuan1203/leetcode-go/blob/main/47-%E5%85%A8%E6%8E%92%E5%88%97II.md)
 
 [48-旋转图像](https://github.com/suyuan1203/leetcode-go/blob/main/48-%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.md)
 
