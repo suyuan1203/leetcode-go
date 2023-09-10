@@ -1,0 +1,19 @@
+```golang
+func jump(nums []int) int {
+	n := len(nums)
+	ans := 0
+	farmost := 0
+
+	end := 0
+	for start := 0; start < n-1; start++ {
+		if start+nums[start] > farmost {
+			farmost = start + nums[start]
+		}
+		if start == end {
+			ans += 1
+			end = farmost
+		}
+	}
+	return ans
+}
+```
